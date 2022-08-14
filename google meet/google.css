@@ -1,0 +1,150 @@
+*{
+    margin:0px;
+}
+.container{
+    width:100%;
+    height:2000px;
+    background-color: antiquewhite;
+}
+.firsthead{
+    background-color: #fff;
+    display: flex;
+    width: 100%;
+    height:150px;
+    justify-content: space-between;
+
+}
+.leftdiv1{
+    width:19%
+}
+.secondhead{
+    padding-top: 60px;
+    background-color:white;
+    width: 100%;
+    height: 2000px;
+}
+.lefthead2{
+margin-left: 80px;
+ background-color:#fff;
+    width: 35%;
+    height:900px;
+}
+.rightdiv{
+    
+    width:50%;
+    height:750px;
+}
+.icon{
+    
+    width:300px;
+    height:100px
+}
+.heading1{
+    font-size: 90px;
+    font-family: "Google Sans Display",Roboto,Arial,sans-serif;
+    line-height: 1.2;
+    font-weight: 400;
+
+}
+.sp1{
+    margin-top: 80px;
+    font-family: "Google Sans",Roboto,Arial,sans-serif;
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 1.4;
+    color: #5f6368;
+    
+}
+.button{
+
+
+}
+.bt1{
+    margin-left: 150px;
+    width: 350px;
+    height: 100px;
+    border-radius: 10px;
+    
+}
+.sp2{
+    font-size: 45px;
+}
+.input{
+    padding-left:90px;
+    border-radius:10px ;
+    width: 400px;
+    height: 100px;
+}
+.flex{
+     margin-right: 150px;
+    margin-top: 60px;
+    display: flex;
+justify-content: space-between;
+}
+::placeholder{
+
+    font-size: 40px;
+}
+.inputtype{
+    padding-left: 100px;
+}
+.line{
+    margin-left: 230px;
+    margin-top: -1000px;
+   background-color: #5f6368;
+    width: 35%;
+    height: 1.5px;
+}
+.learn{
+    padding-left: 150px;
+    margin-top: 90px;
+    width:20%px;
+    height: 50px;
+}
+.anger{
+    font-family:  Roboto,Arial,sans-serif;
+    font-size: 40px;
+    text-decoration: none;
+}
+.sp2{
+    font-size: 40px;
+    font-family:  Roboto,Arial,sans-serif;
+}
+
+.righthead{
+    width: 57%;
+    height: 1600px;
+}
+.img{
+    
+    width:70%;
+}
+.secondhead{
+    display: flex;
+    justify-content: space-between;
+}
+.heading{
+    padding-left: 150px;
+    color: black;
+    font-size:80px;
+    font-family:  Roboto,Arial,sans-serif;
+font-weight: 1;
+}
+.para1{
+    padding-left:150px ;
+    padding-top: 50px;
+    font-size: 45px;
+    font-family:  Roboto,Arial,sans-serif;
+    word-wrap: break-word;
+}
+.time{
+    padding-top: 40px;
+    font-size:50px ;
+    font-family:  Roboto,Arial,sans-serif;
+    font-weight: 1;
+}
+.bt{
+    padding-top: 15px;
+    width: 400px;
+    height: 100px;
+}
